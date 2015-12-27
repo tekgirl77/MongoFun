@@ -1,0 +1,37 @@
+{
+  "name": "mongofun",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "kerberos": "0.0.17",
+    "mongodb": "^2.1.2",
+    "morgan": "~1.6.1",
+    "node-gyp": "^3.2.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "description": "MongoDB Sandbox",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekgirl77/MongoFun.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb"
+  ],
+  "author": "Salle J. Ingle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekgirl77/MongoFun/issues"
+  },
+  "homepage": "https://github.com/tekgirl77/MongoFun#readme"
+}
